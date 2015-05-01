@@ -52,6 +52,6 @@ As previously mentioned, this is a pretty boring calculator/expression parser. A
 > 1. Allowing a user to enter sqrt() to perform a square root or n_root() to perform an nth root.
 2. Allowing a user to utilize trigonometric functions.
 3. Allowing a user to find the natural log , ln(), or log base n , log_n(), of a number.
-4. Programming some constants such as e or pi to be recognized.
+4. ~~Programming some constants such as e or pi to be recognized.~~ <b>COMPLETED</b>
 5. Basic equation solving: Linear and quadratic
 6. Root finding
