@@ -39,7 +39,7 @@ Though it is best to run this on the VM for the sake of consistency, this progra
 - [Jesus Ortega](https://github.com/jesus-ortega)
 
 ## <b>Contributors</b>
-N/A
+- [Jackson Markowski](http://github.com/JacksonMarkowski)
 
 ## <b>Open Issues/Bugs</b>
 This is a pretty bland calculator/expression parser, a TI-01, a watered down Wolfram Alpha. Not only that, this program has a few problems:
