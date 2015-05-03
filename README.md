@@ -6,6 +6,7 @@ This project is a basic implementation of a mathematical expression parser. When
 - Integers and decimals
 - The following operators: +, -, *, /, and ^
 - Parentheses
+- The constants "e" and "pi"
 
 The program will then process the expression into [Reverse Polish Notation](http://en.wikipedia.org/wiki/Reverse_Polish_notation) and evaluate the expression. Afterwards, the program will print the processed expression and the answer to the screen.
 
@@ -46,7 +47,7 @@ This is a pretty bland calculator/expression parser, a TI-01, a watered down Wol
 > 
 1. It currently does not handle roots in a nice way, requiring you to raise something to the 1/nth power.
 2. It currently does not handle complex numbers, whether that means actually recognizing complex numbers or throwing an error if one attempts to take certain roots of a negative number.
-3. There are certain cases where the program will fail to recognize unary minuses and will produce an error.
+3. ~~There are certain cases where the program will fail to recognize unary minuses and will produce an error.~~ <b>FIXED</b>
 
 As previously mentioned, this is a pretty boring calculator/expression parser. A few features that would be pretty nifty are:
 > 1. Allowing a user to enter sqrt() to perform a square root or n_root() to perform an nth root.
